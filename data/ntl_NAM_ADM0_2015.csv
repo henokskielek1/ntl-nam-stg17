@@ -1,0 +1,2 @@
+shapeID,name,area_km2,n_pixels,sol,rad_km2,sol_per_km2,mean_rad,median_rad,p90_rad,max_rad,lit_area_km2,lit_share,core_area_km2,core_share,pop,pop_inhabited,pop_lit,pop_dark,pop_lit_share,pop_density,sol_per_capita,gini_pixels,gini_pop_light,cv_rad,sol_share_nat,pop_share_nat,light_pop_ratio
+72404144B25295852901945,Republic of Namibia,823895,398635,4780.06,9920.23,0.00580179,0.0119911,0,0,39.4612,3066.93,0.00372248,287.116,0.000348486,2.21831e+06,2.16007e+06,1.08994e+06,1.07013e+06,0.504586,2.69247,0.00215482,0.998568,0.729792,33.8847,1,1,1
